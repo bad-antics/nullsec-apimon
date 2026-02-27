@@ -61,7 +61,7 @@ ocamlfind ocamlc -package unix -linkpkg apimon.ml -o apimon
 
 ## Author
 
-bad-antics | [Discord](https://discord.gg/killers)
+bad-antics | [X/Twitter](https://x.com/AnonAntics)
 
 ## License
 
